@@ -1,0 +1,34 @@
+.nav-buttons{
+    margin-left:60%;
+}
+
+.logo-footer {
+    width: 120px;
+    height: auto;
+}
+
+.thumb {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.contact-info p {
+    margin-bottom: 0.4rem;
+}
+
+#home{
+    background-image: url('../imgs/background.jpg');
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-position-y: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+#home span{
+    color: coral;
+}
