@@ -54,7 +54,7 @@ CREATE TABLE `orders` (
   `user_id` int(11) NOT NULL,
   `shipping_city` varchar(255) NOT NULL,
   `shipping_uf` varchar(2) NOT NULL,
-  `shipping _address` varchar(255) NOT NULL,
+  `shipping_address` varchar(255) NOT NULL,
   `order_date` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 

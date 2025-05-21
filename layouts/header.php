@@ -24,7 +24,7 @@
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Produtos</a>
+                <a class="nav-link" href="products.php">Produtos</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="#">Blog</a>
@@ -33,7 +33,8 @@
                 <a class="nav-link me-3" href="#">Fale Conosco</a>
             </li>
             <li class="nav-item d-flex align-items-center">
-                <i class="fa fa-shopping-cart me-3" aria-hidden="true"></i>
+                <a class="nav-link" aria-current="page" href="cart.php"><i class="fa fa-shopping-cart"
+                                aria-hidden="true"></i></a>
             </li>
             <li class="nav-item d-flex align-items-center">
                 <a class="nav-link" aria-current="page" href="login.php"><i class="fa fa-user" aria-hidden="true"></i></a>
