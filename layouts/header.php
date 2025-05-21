@@ -36,8 +36,8 @@
                 <i class="fa fa-shopping-cart me-3" aria-hidden="true"></i>
             </li>
             <li class="nav-item d-flex align-items-center">
-                <i class="fa fa-user" aria-hidden="true"></i>
-        </li>
+                <a class="nav-link" aria-current="page" href="login.php"><i class="fa fa-user" aria-hidden="true"></i></a>
+            </li>
         </ul>
       </div>
     </div>
